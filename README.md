@@ -12,4 +12,6 @@ Para que tudo ficasse funcional, criei um script para as cenas que seriam criada
 ## JOGO
 No jogo, utilizei do canvas para criar um barra de vida ao nosso personagem. Depois que adicionamos a barra de vida ao arquivo, transformamos ela em um frame para ser mais facíl de se trabalhar, após isso configuramos ela para ser possível utliza-la em nosso código, setando um valor máximo de 1, fizemos com que toda vez que o personagem colidisse com uma estrela Vermelha, ele perdesse -0,1 de vida, e que quando a barra de vida fosse =< 0, ele nos levaria até a tela de derrota.
 
+<img src="img/4.jpg" width="600px"> 
+
 <img src="img/3.jpg" width="600px"> 
