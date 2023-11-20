@@ -19,3 +19,5 @@ No jogo, utilizei do canvas para criar um barra de vida ao nosso personagem. Dep
 
 Ao final de tudo, modificamos a cena pela qual o jogador terá que ir quando conseguir concluir o jogo, utilizando das mesmas funções do menu, uma para inicializar o jogo, e a outra para fechá-lo
 
+<img src="img/6.jpg" width="600px"> 
+
